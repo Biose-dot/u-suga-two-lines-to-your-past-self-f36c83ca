@@ -8,3 +8,8 @@
   > Do not delete the voicemail from Grandma on your eighteenth birthday just to free up space, because her voice saying your name is the one recording you will spend years trying to remember.
   > Losing it taught me that storage is cheap and voices are not, so now I keep every message from the people I love — even the ones I think I will never need again.
 - Status: built, pending coordinator bundle+submit
+
+- Submission ID: 01a20fc7-34a8-776f-8519-e7dfa0b20515
+- Bundle: /home/hatch/workspace/makefun/u-suga-two-lines-to-your-past-self-f36c83ca-bundle.tar.gz
+- Status: submitted (see status output in finish-batch0516-surrogate log)
+- Submitted: 2026-11-25 WIB
